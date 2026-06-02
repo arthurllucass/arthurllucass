@@ -16,18 +16,17 @@ Sou estudante de **Engenharia de Software** na Faculdade de Tecnologia SENAI Fat
 ### 🧰 Tecnologias e Ferramentas
 
 <div align="center">
-
 <img alt="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="display:inline-block; margin:5px;">
 <img alt="Spring Boot" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="display:inline-block; margin:5px;">
+<img alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="display:inline-block; margin:5px;">
+<img alt="Laravel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" style="display:inline-block; margin:5px;">
 <img alt="Hibernate" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" style="display:inline-block; margin:5px;">
 <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="display:inline-block; margin:5px;">
 <img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="display:inline-block; margin:5px;">
 <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="display:inline-block; margin:5px;">
-<img alt="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="display:inline-block; margin:5px;">
 <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="display:inline-block; margin:5px;">
 <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="display:inline-block; margin:5px;">
 <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="display:inline-block; margin:5px;">
-
 </div>
 
 ---
