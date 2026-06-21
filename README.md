@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Arthur%20Lucas&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20Javascript%20%7C%20SQL%20%7C%20Hibernate%20%7C%20Software%20Engineering%20Student&descSize=13&descColor=a0aec0&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=180&section=header&text=Arthur%20Lucas&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20PHP%20%7C%20Laravel%20%7C%20Javascript%20%7C%20SQL%20%7C%20Hibernate%20%7C%20Software%20Engineering%20Student&descSize=13&descColor=a0aec0&descAlignY=58" width="100%"/>
 
 ### Olá! Seja bem-vindo ao meu perfil 👋
 
@@ -48,13 +48,13 @@ Sou estudante de **Engenharia de Software** na Faculdade de Tecnologia SENAI Fat
 ---
 
 #### 🚚 GynLog — Sistema desktop de gestão de frotas
-🔗 [Repositório no GitHub](https://github.com/arthurllucass/Transportadora-GynLog.git)
+🔗 [Repositório no GitHub](https://github.com/arthurllucass/GynLog-Transportadora)
 
 > Aplicação desktop em Java com interface gráfica para controle de veículos, despesas operacionais e geração de relatórios financeiros em PDF.
 
 | | |
 |---|---|
-| **Arquitetura** | MVC |
+| **Arquitetura** | Camadas: Controller → Service → Repository  |
 | **Destaques** | Geração de PDF, controle financeiro, gestão de frota |
 | **Stack** | Java 21 · Java Swing · OpenPDF |
 
